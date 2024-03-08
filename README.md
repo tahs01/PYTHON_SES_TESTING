@@ -1,1 +1,1 @@
-# PYTHON_SES_TESTING
+# SES Testing with Python Script
